@@ -4,7 +4,7 @@ IA01 - Tic Tac Toe
 
 ## Public Host
 
-[Live Demo](https://21120524.vercel.app/)
+[Live Demo](https://21120524-ia01.vercel.app/)
 
 ## Basics
 
