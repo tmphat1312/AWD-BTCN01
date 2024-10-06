@@ -1,8 +1,28 @@
-# React + Vite
+# React Tic Tac Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+IA01 - Tic Tac Toe
 
-Currently, two official plugins are available:
+## Public Host
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Demo](https://21120524.vercel.app/)
+
+## Basics
+
+Student ID: 21120524
+
+Full Name: Trương Minh Phát
+Course: AWP - 21_3
+
+## Requirements
+
+- [x] (1.8 points) For the current move only, show “You are at move #…” instead of a button
+
+- [x] (1.8 points) Rewrite the Board to use two loops to make the squares instead of hardcoding them
+
+- [x] (1.8 points) Add a toggle button that lets you sort the moves in either ascending or descending order
+
+- [x] (1.8 points) When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw)
+
+- [x] (1.8 points) Display the location for each move in the format (row, col) in the move history list
+
+- [x] (1 point) Upload to a public host
