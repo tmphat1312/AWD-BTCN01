@@ -1,0 +1,13 @@
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+
+  & ol {
+    display: grid;
+    gap: 0.25rem;
+  }
+}
